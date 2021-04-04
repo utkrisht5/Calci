@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <!--    <string name="button">Button</string>-->
+    <!--    <string name="button">Button</string>-->
+    <!--    <string name="button">Button</string>-->
+    <!--    <string name="button">Button</string>-->
+    <!--    <string name="button">Button</string>-->
+    <string name="add">add</string>
+    <string name="subtract">Subtract</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+    <string name="power">power</string>
+    <string name="more">More</string>
+    <string name="enter_the_number">Enter the number</string>
+    <string name="square_root">Square root</string>
+    <string name="cube_root">cube root</string>
+    <string name="prime">prime</string>
+    <string name="armstrong">Armstrong</string>
+</resources>
