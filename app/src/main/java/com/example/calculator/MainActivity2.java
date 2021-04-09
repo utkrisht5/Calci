@@ -37,8 +37,8 @@ public class MainActivity2 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 double a=Double.parseDouble(n3.getText().toString());
-                for(double i=0; i<a; i++){
-                    if(((i * i) * i) == a){
+                for(double i=0; i<a; i++) {
+                    if (((i * i) * i) == a) {
                         text1.setText("The result is " + i);
                         break;
                     }
